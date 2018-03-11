@@ -23,6 +23,10 @@ enough resources.
 Implementation
 --------------
 
-We are using multithreading techniques to illustrate the working of Banking Algorithm . Implemented two algorithms , namely Safety Algorithm and Resource Request Algorithm.
-and showed the working 
+We are using multithreading techniques to illustrate the working of Banking Algorithm . Implemented two algorithms , namely Safety Algorithm and Resource Request Algorithm and showed the working 
 
+
+Code
+----
+
+The main program is banker.c inside BankersOSProject directory
